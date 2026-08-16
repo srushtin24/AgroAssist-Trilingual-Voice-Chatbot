@@ -15,6 +15,21 @@ Unlike traditional intent-based chatbot systems (such as **Dialogflow**), this i
 This eliminates hallucination and guarantees factually accurate, source-backed answers.
 
 ---
+## Implementation
+<p align="center">
+   <img src="/diagrams/3.png" width="400" hspace="40">
+</p>
+<p align="center">
+   <img src="/diagrams/4.png" width="400" hspace="40">
+</p>
+<p align="center">
+   <img src="/diagrams/5.png" width="400" hspace="40">
+</p>
+<p align="center">
+   <img src="/diagrams/6.png" width="400" hspace="40">
+</p>
+
+---
 
 ## Architecture
 
