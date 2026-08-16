@@ -1,4 +1,4 @@
-# 🌱 AgroAssist Chatbot — RAG-Powered Multilingual Farming Assistant
+# AgroAssist Chatbot — RAG-Powered Multilingual Farming Assistant
 
 An intelligent, voice-enabled chatbot built with **Retrieval-Augmented Generation (RAG)**, designed to provide accurate, hallucination-free agricultural guidance to Indian farmers in **English, Hindi, and Marathi**.
 
@@ -16,7 +16,7 @@ This eliminates hallucination and guarantees factually accurate, source-backed a
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 The system is built on a **two-pipeline architecture**:
 
@@ -25,9 +25,9 @@ The system is built on a **two-pipeline architecture**:
 
 ---
 
-## ✨ Features
+## Features
 
-### 1. 🔍 RAG Pipeline
+### 1. RAG Pipeline
 
 - **PDF knowledge base** — plant-specific documents loaded via `PyMuPDFLoader` and chunked into **800-character segments** with **100-character overlap** using `RecursiveCharacterTextSplitter`.
 
@@ -41,7 +41,7 @@ The system is built on a **two-pipeline architecture**:
 
 ---
 
-### 2. 🌐 Multilingual Support
+### 2. Multilingual Support
 
 - **Three-language toggle** — English (EN) / Hindi (हि) / Marathi (म) — selectable from the chat header.
 
@@ -51,7 +51,7 @@ The system is built on a **two-pipeline architecture**:
 
 ---
 
-### 3. 🎙️ Voice Interaction
+### 3. Voice Interaction
 
 - **Voice input** — powered by the browser-native **Web Speech API (`SpeechRecognition`)**; mic language switches automatically based on the selected toggle (`en-IN`, `hi-IN`, `mr-IN`).
 
@@ -63,7 +63,7 @@ The system is built on a **two-pipeline architecture**:
 
 ---
 
-### 4. 💬 Chat UI
+### 4. Chat UI
 
 - **Floating chat bubble** (bottom-right, fixed position) present on all pages.
 
@@ -79,7 +79,7 @@ The system is built on a **two-pipeline architecture**:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Component | Technology |
 |---|---|
@@ -95,7 +95,7 @@ The system is built on a **two-pipeline architecture**:
 
 ---
 
-## 🧠 How RAG Prevents Hallucination
+## How RAG Prevents Hallucination
 
 Traditional LLM chatbots generate responses purely from **parametric memory** — which can produce confident but factually incorrect answers (**hallucination**).
 
