@@ -21,14 +21,14 @@ This eliminates hallucination and guarantees factually accurate, source-backed a
 The system is built on a **two-pipeline architecture**:
 
 <p align="center">
-   <img src="diagrams/1.png" width="800" hspace="40">
+   <img src="/diagrams/1.png" width="800" hspace="40">
 </p>
 
 1. **Ingestion Pipeline** — one-time
 2. **Runtime Query Pipeline** — every message
 
 <p align="center">
-   <img src="diagrams/2.png" width="800" hspace="40">
+   <img src="/diagrams/2.png" width="800" hspace="40">
 </p>
 
 ---
