@@ -39,7 +39,7 @@ The system is built on a **two-pipeline architecture**:
 
 - **Session memory** — last **10 messages** maintained per session for coherent multi-turn conversations.
 
----
+
 
 ### 2. Multilingual Support
 
@@ -49,7 +49,7 @@ The system is built on a **two-pipeline architecture**:
 
 - **Language-aware placeholders and listening indicators** update dynamically based on selection.
 
----
+
 
 ### 3. Voice Interaction
 
@@ -61,7 +61,7 @@ The system is built on a **two-pipeline architecture**:
 
 - **Microphone button** pulses red with animation while actively listening.
 
----
+
 
 ### 4. Chat UI
 
