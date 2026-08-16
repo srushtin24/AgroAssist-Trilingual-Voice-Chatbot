@@ -21,7 +21,7 @@ This eliminates hallucination and guarantees factually accurate, source-backed a
 The system is built on a **two-pipeline architecture**:
 
 <p align="center">
-   <img src="/diagrams/1.png" width="800" hspace="40">
+   <img src="/diagrams/1.png" width="600" hspace="40">
 </p>
 
 <p align="center">
