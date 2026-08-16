@@ -15,7 +15,6 @@ Unlike traditional intent-based chatbot systems (such as **Dialogflow**), this i
 This eliminates hallucination and guarantees factually accurate, source-backed answers.
 
 ---
-<br><br>
 
 ## Architecture
 
