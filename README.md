@@ -3,6 +3,7 @@
 An intelligent, voice-enabled chatbot built with **Retrieval-Augmented Generation (RAG)**, designed to provide accurate, hallucination-free agricultural guidance to Indian farmers in **English, Hindi, and Marathi**.
 
 ---
+<br><br>
 
 ## 📌 Overview
 
