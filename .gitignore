@@ -6,4 +6,3 @@ __pycache__/
 *.pkl
 chroma_db/
 data/
-.env
