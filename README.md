@@ -96,7 +96,7 @@ The system is built on a **two-pipeline architecture**:
 | **PDF Loader** | PyMuPDF (via LangChain PyMuPDFLoader) |
 | **LLM** | LLaMA 3.3 70B Versatile via Groq API |
 | **Environment** | python-dotenv |
-| **Deployment** | Railway (backend) + Vercel (frontend) |
+| **Deployment** | Railway (backend) + Netlify (frontend) |
 
 ---
 
