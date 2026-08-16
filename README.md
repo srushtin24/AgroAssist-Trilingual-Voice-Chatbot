@@ -17,12 +17,12 @@ This eliminates hallucination and guarantees factually accurate, source-backed a
 ---
 ## Implementation
 <p align="center">
-   <img src="/diagrams/3.png" width="400" hspace="40">
-   <img src="/diagrams/4.png" width="400" hspace="40">
+   <img src="/diagrams/3.png" width="200" hspace="40">
+   <img src="/diagrams/4.png" width="200" hspace="40">
 </p>
 <p align="center">
-   <img src="/diagrams/5.png" width="400" hspace="40">
-   <img src="/diagrams/6.png" width="400" hspace="40">
+   <img src="/diagrams/5.png" width="200" hspace="40">
+   <img src="/diagrams/6.png" width="200" hspace="40">
 </p>
 
 ---
